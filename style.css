@@ -54,7 +54,7 @@ img{
 }
 
 .button {
-    background: white;
+    background: grey;
     font-size: 110%;
     color:gray;
     padding: 4px;
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: green;
     color:  rgb(215, 206, 199);
 }
 
