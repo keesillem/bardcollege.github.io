@@ -6,7 +6,7 @@
 
 var things = ["listening", "talking", "Dance", "people", "Math", "Architecture"];
 var programmers = ["talker", "listener", "choreographer", "director", "mathematician", "architect"]
-var castles = ["trees", "bridges", "cities"]
+var castles = ["trees", "flowers", "computers"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "happy", "labor"];
 var airs = ["sky high", "sky high in the atmosphere", "heavens", "water", "wind"];
 
